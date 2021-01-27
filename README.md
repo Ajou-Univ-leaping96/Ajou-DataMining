@@ -1,1 +1,1 @@
-# Ajou_DataMining
+# Ajou-DataMining
